@@ -1,2 +1,2 @@
 # genshin-impact-research
-A small research for Genshin Impact
+A small research on Genshin Impact
